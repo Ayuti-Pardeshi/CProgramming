@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <float.h> // Include for FLT_MAX and FLT_MIN constants
-
+// 
 // Define the structure "Book"
 struct Book {
     char title[100];
