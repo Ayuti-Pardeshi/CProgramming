@@ -2,7 +2,7 @@
 
 int main() {
     int n = 5;
-
+//looping technique
     // Outer loop for printing rows
     for (int i = 0; i < n; i++) {
 
