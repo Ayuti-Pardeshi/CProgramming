@@ -17,7 +17,7 @@ bool is_palindrome(char* str, int i, int j)
 
 void check_palindrome(char* str)
 {
-
+    // start
     // Start from leftmost and
     // rightmost corners of str
     int h = 0;
